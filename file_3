@@ -1,1 +1,1 @@
-print("Another new file")
+print("Another new file"+ "" + "What a shame!")
