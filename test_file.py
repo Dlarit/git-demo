@@ -19,3 +19,5 @@ print("A1_2")
 print("Trololo")
 
 print("M_1")
+print("M_2")
+print("M_3")
