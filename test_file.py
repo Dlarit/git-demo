@@ -22,3 +22,5 @@ print("seek")
 print("hide")
 
 print("123456")
+
+print("00000")
