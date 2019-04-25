@@ -17,3 +17,5 @@ print("A1_2")
 
 
 print("Trololo")
+
+print("M_1")
