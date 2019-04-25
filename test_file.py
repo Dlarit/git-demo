@@ -16,4 +16,4 @@ print("A1_1")
 print("A1_2")
 
 print("Trololo")
->>>>>>> parent of 9229165... merge m+cp2
+print("conflict!")
