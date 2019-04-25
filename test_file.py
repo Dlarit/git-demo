@@ -16,6 +16,7 @@ print("A1_1")
 print("A1_2")
 
 print("Trololo")
+
 print("conflict!")
 print("seek")
 print("hide")
